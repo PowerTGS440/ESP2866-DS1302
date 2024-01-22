@@ -1,0 +1,5 @@
+// DS1302 CLK/SCLK ---> D7 (ESP8266)
+// DS1302 DAT/IO   ---> D5 (ESP8266)
+// DS1302 RST/CE   ---> D6 (ESP8266)
+// DS1302 VCC 3.3v ---> 3.3V
+// DS1302 GND      --> GND
